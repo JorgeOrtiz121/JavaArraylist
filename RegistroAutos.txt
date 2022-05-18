@@ -1,0 +1,15 @@
+	Los Autos resgristrados en la compania de Uber son: 
+
+
+El vehiculo seleccionado es 
+Marca del vehiculo deportivo: tesla
+Modelo deportivo: tx
+Aforo: 1
+Precio: 1.1
+
+
+
+Marca del vehiculo FamiliarHyundai
+Modelo Familiarmax
+Aforo2
+Precio2.0

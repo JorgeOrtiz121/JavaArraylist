@@ -1,0 +1,12 @@
+	Las calificaciones del viaje son:
+ 
+**************************************
+Marca del Vehiculo Deportivo: tesla
+Modelo del Vehiculo Deportivo: tx
+Estrellas obtenidas: 4
+**************************************
+Marca del Vehiculo Familiar: Hyundai
+Modelo del Vehiculo Familiar: max
+Estrellas obtenidas: 5
+**************************************
+**************************************

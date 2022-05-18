@@ -1,0 +1,13 @@
+	Informacion del los Conductores : 
+
+Conductor
+Nombre: pepe
+Apellido: pepito
+Sexo:m
+Edad: 21
+
+Conductor
+Nombre: manuel
+Apellido: auqui
+Sexo:m
+Edad: 21
